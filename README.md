@@ -7,7 +7,7 @@
 - 🧐 Interested in Computer Vision, Recommendation system and Full Stack Development.
 - 💼 Computer Vision Engineer Intership at Bresee.
 - 📫 How to reach me: 1602288964@qq.com
-- My CSDN Blog: https://blog.csdn.net/weixin_44551646/
+- 💻 My CSDN Blog: https://blog.csdn.net/weixin_44551646/
 
 ![](http://antzuhl.cn:4000/get/@66Kevin.readme)
 
