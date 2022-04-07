@@ -6,7 +6,7 @@
 - 🎓 Bachelor of Science in Computer Science with Honours First Class, GPA 4.25.
 - 🧐 Interested in Computer Vision, Recommendation system and Full Stack Development.
 - 💼 Computer Vision Engineer Intership at Bresee.
-- 📫 How to reach me: K21032356@kcl.ac.uk
+- 📫 How to reach me: yueyi.1.wang@kcl.ac.uk
 - 💻 My CSDN Blog: https://blog.csdn.net/weixin_44551646/
 
 ![](http://antzuhl.cn:4000/get/@66Kevin.readme)
